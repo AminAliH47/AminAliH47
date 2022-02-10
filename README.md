@@ -15,6 +15,10 @@ Technologies that I am skilled in:
 [
   'Python',
   'Django',
+  'Django Rest Framework',
+  'FastAPI',
+  'Json Web Token (JWT)',
+  'Postgresql Database',
 ]
 
 ```
