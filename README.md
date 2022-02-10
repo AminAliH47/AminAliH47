@@ -31,7 +31,7 @@ Hello there 👋🏻, It's AminAli
 <br>
 
 <h3>
-📞 Me on social medias:
+📞 Me on social media:
 </h3>
 
 <ul>
