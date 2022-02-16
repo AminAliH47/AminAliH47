@@ -17,7 +17,7 @@ Hello there 👋🏻, It's AminAli
 </h3>
 
 ``` python
-[
+my_skills = [
   'Python',
   'Django',
   'Django Rest Framework',
