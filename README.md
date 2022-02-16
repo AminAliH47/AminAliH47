@@ -51,7 +51,7 @@ my_skills = [
 <h3>
 💻 Projects:
 </h3>
-<table width="100%">
+<table>
 <tr>
   <th>
     Name
@@ -62,6 +62,20 @@ my_skills = [
   <th>
     Stars
   </th>
+</tr>
+
+<tr>
+  <td>
+    PicoStyle
+  </td>
+  <td>
+    <a href="https://github.com/AminAliH47/PicoStyle" target="_blank">Link</a>
+  </td>
+  <td>
+    
+![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/PicoStyle?style=social)
+    
+  </td>
 </tr>
 <tr>
   <td>
