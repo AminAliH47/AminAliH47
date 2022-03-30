@@ -103,4 +103,17 @@ my_skills = [
     
   </td>
 </tr>
+<tr>
+  <td>
+  Wordpress Dashboard HTML Template
+  </td>
+  <td>
+  <a href="https://github.com/AminAliH47/wp-admin-html-template" target="_blank">Link</a>
+  </td>
+  <td>
+  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/wp-admin-html-template?style=social)
+    
+  </td>
+</tr>
 </table>
