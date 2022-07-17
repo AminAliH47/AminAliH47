@@ -5,7 +5,7 @@ Hello there 👋🏻, It's AminAli
 </h2>
 
 <p>I'm 18 years old 💚</p>
-<p>I have little professional experience (+ 2 years) ✏️</p>
+<p>I have 2+ years of professional experience ✏️</p>
 <p>I'm a <b>Back-end</b> developer 🖥</p>
 <p>It's an honor to say that I'm a <b>Pythonist</b> 😃</p>
 
