@@ -4,16 +4,14 @@ Hello there 👋🏻, It's AminAli
 ![](https://komarev.com/ghpvc/?username=AminAliH47&color=green)
 </h2>
 
-<p>I'm 18 years old 💚</p>
-<p>I have 2+ years of professional experience ✏️</p>
-<p>I'm a <b>Back-end</b> developer 🖥</p>
-<p>It's an honor to say that I'm a <b>Pythonist</b> 😃</p>
+I'm 18 years old 💚
+I have 2+ years of professional experience ✏️
+I'm a <b>Back-end</b> developer 🖥
+It's an honor to say that I'm a **Pythonist** 😃
 
 <br>
 
-<h3>
-⚙️ Technologies that I am skilled in:
-</h3>
+### ⚙️ Technologies that I am skilled in:
 
 ``` python
 my_skills = [
@@ -21,6 +19,7 @@ my_skills = [
   'Django',
   'Django Rest Framework',
   'FastAPI',
+  'Selenium Python',
   'Json Web Token (JWT)',
   'PostgreSQL Database',
 ]
@@ -29,27 +28,17 @@ my_skills = [
 
 <br>
 
-<h3>
-📞 Me on social media:
-</h3>
+### 📞 Me on social media:
 
-<ul>
-  <li>
-    🟣 Instagram: <a href="https://www.instagram.com/aminalih47/" target="_blank">AminAlih47</a>
-  </li>
-  <li>
-    🔵 Linkedin: <a href="https://www.linkedin.com/in/aminalih47/">AminAli Mazarian</a>
-  </li>
-  <li>
-    🔴 Gmail: <a href="mailto:aminalih47@gmail.com">AminAlih47@gmail.com</a>
-  </li>
-</ul>
+
+- 🟣 Instagram: <a href="https://www.instagram.com/aminalih47/" target="_blank">AminAlih47</a>
+- 🔵 Linkedin: <a href="https://www.linkedin.com/in/aminalih47/">AminAli Mazarian</a>
+- 🔴 Gmail: <a href="mailto:aminalih47@gmail.com">AminAlih47@gmail.com</a>
 
 <br>
 
-<h3>
-💻 Projects:
-</h3>
+### 💻 Projects:
+
 <table>
 <tr>
   <th>
@@ -65,19 +54,6 @@ my_skills = [
 
 <tr>
   <td>
-    PicoStyle
-  </td>
-  <td>
-    <a href="https://github.com/AminAliH47/PicoStyle" target="_blank">Link</a>
-  </td>
-  <td>
-    
-![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/PicoStyle?style=social)
-    
-  </td>
-</tr>
-<tr>
-  <td>
     PicoSchool 
   </td>
   <td>
@@ -89,6 +65,35 @@ my_skills = [
     
   </td>
 </tr>
+
+<tr>
+  <td>
+    Website Analyzer 
+  </td>
+  <td>
+    <a href="https://github.com/AminAliH47/Website-analyzer" target="_blank">Link</a>
+  </td>
+  <td>
+    
+![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/Website-analyzer?style=social)
+    
+  </td>
+</tr>
+
+<tr>
+  <td>
+    PicoStyle
+  </td>
+  <td>
+    <a href="https://github.com/AminAliH47/PicoStyle" target="_blank">Link</a>
+  </td>
+  <td>
+    
+![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/PicoStyle?style=social)
+    
+  </td>
+</tr>
+
 <tr>
   <td>
     APIBlog 
