@@ -5,9 +5,13 @@ Hello there 👋🏻, It's AminAli
 </h2>
 
 I'm 18 years old 💚
+
 I have 2+ years of professional experience ✏️
-I'm a <b>Back-end</b> developer 🖥
+
+I'm a **Back-end** developer 🖥
+
 It's an honor to say that I'm a **Pythonist** 😃
+
 
 <br>
 
