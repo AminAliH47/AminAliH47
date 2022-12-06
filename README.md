@@ -34,8 +34,6 @@ my_skills = [
 
 ### 📞 Me on social media:
 
-
-- 🟣 Instagram: <a href="https://www.instagram.com/aminalih47/" target="_blank">AminAlih47</a>
 - 🔵 Linkedin: <a href="https://www.linkedin.com/in/aminalih47/">AminAli Mazarian</a>
 - 🔴 Gmail: <a href="mailto:aminalih47@gmail.com">AminAlih47@gmail.com</a>
 
