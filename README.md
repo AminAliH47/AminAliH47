@@ -10,8 +10,6 @@ I have 3+ years of professional experience ✏️
 
 I'm a **Back-end** developer 🖥
 
-It's an honor to say that I'm a **Pythonist** 😃
-
 
 <br>
 
