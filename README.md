@@ -6,7 +6,7 @@ Hello there 👋🏻, It's AminAli
 
 I'm 18 years old 💚
 
-I have 2+ years of professional experience ✏️
+I have 3+ years of professional experience ✏️
 
 I'm a **Back-end** developer 🖥
 
@@ -26,6 +26,8 @@ my_skills = [
   'Selenium Python',
   'Json Web Token (JWT)',
   'PostgreSQL Database',
+  'gRPC',
+  'Design patterns',
 ]
 
 ```
