@@ -4,9 +4,7 @@ Hello there 👋🏻, It's AminAli
 ![](https://komarev.com/ghpvc/?username=AminAliH47&color=green)
 </h2>
 
-I'm 18 years old 💚
-
-I have 3+ years of professional experience ✏️
+I have 4+ years of professional experience ✏️
 
 I'm a **Back-end** developer 🖥
 
