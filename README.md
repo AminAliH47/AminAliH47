@@ -68,20 +68,6 @@ my_skills = [
 
 <tr>
   <td>
-    Website Analyzer 
-  </td>
-  <td>
-    <a href="https://github.com/AminAliH47/Website-analyzer" target="_blank">Link</a>
-  </td>
-  <td>
-    
-![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/Website-analyzer?style=social)
-    
-  </td>
-</tr>
-
-<tr>
-  <td>
     PicoStyle
   </td>
   <td>
